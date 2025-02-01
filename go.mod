@@ -1,4 +1,4 @@
-module github.com/go-rod/stealth
+module github.com/wiarzri/stealth
 
 go 1.21
 
